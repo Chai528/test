@@ -18,6 +18,6 @@ int main() {
 		}
 		cout << "你再好好想想？谁说了算" << endl;
 	}
-	cout << "结束了" << endl;
+	cout << "结束了啊啊啊啊啊" << endl;
 	return 0;
 }
