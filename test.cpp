@@ -12,7 +12,7 @@ int main() {
 			break;
 		}
 		else if (select == 2) {
-			cout << "也算识趣" << endl;
+			cout << "也000算识趣" << endl;
 			system("pause");
 			break;
 		}
